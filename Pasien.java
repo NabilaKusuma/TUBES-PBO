@@ -7,7 +7,7 @@ package tubes;
 
 /**
  *
- * @author Nabila Kusuma
+ * @author Niko Novian
  */
 public class Pasien extends Orang{
     private String Id;
