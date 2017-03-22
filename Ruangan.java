@@ -7,7 +7,7 @@ package tubes;
 
 /**
  *
- * @author Nabila Kusuma
+ * @author Andre
  */
 public class Ruangan {
     private String Id;
